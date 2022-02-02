@@ -2,7 +2,7 @@
 
 This is creating my own data-science notebook. Beyond the normal image it will also include tensorflow  and keras for use in all classes of Spring 2022.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](your-mybinder-link)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KevinMunson/datascience-notebook/HEAD)
 
 The built image is [hosted on Docker-Hub](link-to-your-dockerhub).
 
