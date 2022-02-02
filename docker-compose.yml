@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  jupyter:
+    build: .
+    image: kevinmunson/my-datascience-notebook
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/home/jovyan/work
