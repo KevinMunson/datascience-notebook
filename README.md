@@ -4,7 +4,7 @@ This is creating my own data-science notebook. Beyond the normal image it will a
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KevinMunson/datascience-notebook/HEAD)
 
-The built image is [hosted on Docker-Hub](link-to-your-dockerhub).
+The built image is [hosted on Docker-Hub](https://hub.docker.com/layers/kevinmunson/my-datascience-notebook/latest/images/sha256:fcc8c98fe3672dfdbb84f8e5060a4d0177216ce28a094e53bc91188256954eb6).
 
 ## Using this repo
 ### With `docker`
