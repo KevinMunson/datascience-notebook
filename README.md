@@ -26,12 +26,12 @@ Run:
 
 ```bash
 
-# - This publishes on port 8888
+# - This publishes on port 9000
 # - It mount the local directory as a volume in the
 #   container's home directory
 # - It `--rm` container when done
 # - It uses `-it` mode meaning you can cancel when you want
-docker run --rm -p 8888:8888 -it -v ${pwd}:/home/jovyan/work jupyter/my-datascience-notebook
+docker run --rm -p 9000:8888 -it -v ${pwd}:/home/jovyan/work jupyter/my-datascience-notebook
 ```
 
 ### With `docker-compose`

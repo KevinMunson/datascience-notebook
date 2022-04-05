@@ -4,6 +4,6 @@ services:
     build: .
     image: kevinmunson/my-datascience-notebook
     ports:
-      - "8888:8888"
+      - "9000:8888"
     volumes:
       - .:/home/jovyan/work
